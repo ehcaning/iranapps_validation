@@ -1,6 +1,6 @@
 {
   "name": "iranapps_validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm module for validate https://iranapps.ir/ payments",
   "main": "app.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Ehcaning/iranapps_validation#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.0"
   }
 }
